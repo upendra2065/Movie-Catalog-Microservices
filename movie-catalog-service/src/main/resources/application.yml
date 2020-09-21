@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: movie-catalog-service
+
+# Server configuration
+server:
+  port: 8081
